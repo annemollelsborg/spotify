@@ -1,5 +1,5 @@
 # Always ignore tmp directories and their contents
-tmp/
+Data/
 
 # MacOS
 .DS_Store
