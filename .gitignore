@@ -1,4 +1,4 @@
-# Always ignore tmp directories and their contents
+# Always ignore Data directories and their contents
 Data/
 
 # MacOS
